@@ -101,7 +101,7 @@ section#login>div#form {
     }
 
     section#login {
-        width: 990px;
+        width: 900px;
     }
 
     section#login>div#imagem {
@@ -121,7 +121,7 @@ section#login>div#form {
 
 @media (min-width: 1200px) {
     section#login {
-        width: 1150px;
+        width: 1100px;
     }
 
     section#login>div#imagem {
