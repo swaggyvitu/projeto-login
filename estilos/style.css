@@ -105,8 +105,9 @@ div.campo > input{
 form > input[type=submit] {
     margin-top: 25px;
     display: block;
+    margin: auto;
     font-size: 1em;
-    width: 100%;
+    width: 70%;
     height: 40px;
     background-color:  var(--roxo-pri);
     color: white;
@@ -119,7 +120,6 @@ form > input[type=submit] {
 form > input[type=submit]:hover {
     display: block;
     font-size: 1em;
-    width: 100%;
     height: 40px;
     background-color:  var(--roxo-sec);
     border-radius: 10px;
@@ -128,11 +128,12 @@ form > input[type=submit]:hover {
 
 form > a.botao{
     padding-top: 7px;
-    margin-top: 5px;
+   
     display: block;
+    margin: 15px auto;
     text-align: center;
     font-size: 1em;
-    width: 100%;
+    width: 60%;
     height: 40px;
     background-color: white;
     border-radius: 10px;
